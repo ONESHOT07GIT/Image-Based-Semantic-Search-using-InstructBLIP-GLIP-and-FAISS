@@ -32,8 +32,13 @@ To achieve the objective, two distinct approaches were implemented:
 - **CLIP:** Handled complex, nuanced queries more consistently due to direct text-image embedding comparison.
 - **Evaluation:** Results were evaluated qualitatively. No formal metrics (e.g., mAP, precision) were computed.
 ## SHOWCASE
-- * Main Page *
-  ![image](https://github.com/user-attachments/assets/430810f7-e11f-49ee-b2cc-d74e801dbafb)
+- *Main Page*
+![image](https://github.com/user-attachments/assets/430810f7-e11f-49ee-b2cc-d74e801dbafb)
+- *Uploading images*
+![image](https://github.com/user-attachments/assets/d30ac0a7-d079-46ed-a8a8-4fe01d9e5bd7)
+- *Prompt and its results*
+![image](https://github.com/user-attachments/assets/64f3181d-8db1-472a-bf8c-eeca4fbcc4bb)
+
 
 ## Deployment
 - **Platform:** Streamlit (local deployment)

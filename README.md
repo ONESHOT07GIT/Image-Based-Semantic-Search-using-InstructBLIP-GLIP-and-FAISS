@@ -31,6 +31,9 @@ To achieve the objective, two distinct approaches were implemented:
 - **BLIP:** Good for descriptive queries but performance varied with caption quality.
 - **CLIP:** Handled complex, nuanced queries more consistently due to direct text-image embedding comparison.
 - **Evaluation:** Results were evaluated qualitatively. No formal metrics (e.g., mAP, precision) were computed.
+## SHOWCASE
+- * Main Page *
+  ![image](https://github.com/user-attachments/assets/430810f7-e11f-49ee-b2cc-d74e801dbafb)
 
 ## Deployment
 - **Platform:** Streamlit (local deployment)
